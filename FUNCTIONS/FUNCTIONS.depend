@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1614187401 source:c:\users\shima'\desktop\iti\functions\array.c
+
+1614542703 source:c:\users\shima'\desktop\iti\functions\math.c
+
+1615675741 source:c:\users\shima'\desktop\iti\functions\string.c
+	<stdio.h>
+	<stdlib.h>
+
+1615675873 source:c:\users\shima'\desktop\iti\functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1614204324 source:c:\users\shima'\desktop\iti\functions\untitled1.c
+
+1614590101 source:c:\users\shima'\desktop\iti\functions\student.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1618357479 c:\users\shima'\desktop\iti\functions\student.h
+
+1615040565 source:c:\users\shima'\desktop\iti\functions\school.c
+
